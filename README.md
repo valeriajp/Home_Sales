@@ -1,5 +1,7 @@
 # Home_Sales
 
+![2211 i105 038 S m005 c13 isometric family moving illustration](https://github.com/user-attachments/assets/b884f200-a35b-436c-9f52-ea062294d4f8)
+
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 # **Before You Begin**
